@@ -4,6 +4,29 @@
   padding: 0;
 }
 
+/* Thypography */
+body {
+  font-size: 1.25rem;
+  color: #C3C7CA;
+}
+
 nav.container .col-sm-4 ul li {
   width: 30%;
+}
+
+nav.container .col-sm-8 ul {
+  line-height: 86px;
+}
+
+nav.container .col-sm-8 ul button {
+  border-radius: 2.3rem;
+  background-color: #EC008D;
+  border: none;
+}
+
+.box_menu {
+  position: absolute;
+  background-color: red;
+  box-shadow: 5px 5px 20px 5px lightgrey;
+  border-radius: 3px;
 }
