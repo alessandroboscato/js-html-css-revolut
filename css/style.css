@@ -3,3 +3,7 @@
   margin: 0;
   padding: 0;
 }
+
+nav.container .col-sm-4 ul li {
+  width: 30%;
+}
