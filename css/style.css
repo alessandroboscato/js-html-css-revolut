@@ -28,5 +28,6 @@ nav.container .col-sm-8 ul button {
   position: absolute;
   background-color: red;
   box-shadow: 5px 5px 20px 5px lightgrey;
-  border-radius: 3px;
+  border-radius: 5px;
+  padding: 10px;
 }
